@@ -1,0 +1,29 @@
+{
+  "name": "surfline-nodejs",
+  "version": "1.0.0",
+  "description": "A node client for working with the surfline API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylerberry/surfline-nodejs.git"
+  },
+  "keywords": [
+    "surf",
+    "report",
+    "forecast",
+    "surfline",
+    "nodejs"
+  ],
+  "author": "Kyler Berry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylerberry/surfline-nodejs/issues"
+  },
+  "homepage": "https://github.com/kylerberry/surfline-nodejs#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
