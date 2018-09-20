@@ -5,11 +5,11 @@ A NodeJs Client for surfline data
 
 ## Methods:
 - [Search](#search)
-- [ForecastOverview](#forecastOverview)
-- [ForecastWaves](#forecastWaves)
-- [ForecastWind](#forecastWind)
-- [ForecastTides](#forecastTides)
-- [ForecastWeather](#forecastTides)
+- [ForecastOverview](#forecast-overview)
+- [ForecastWaves](#forecast-waves)
+- [ForecastWind](#forecast-wind)
+- [ForecastTides](#forecast-tides)
+- [ForecastWeather](#forecast-weather)
 ### search
 - _required_ String `query`
 - _optional_ Integer `querySize`
